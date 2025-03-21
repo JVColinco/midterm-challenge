@@ -42,4 +42,5 @@ btnDismiss.addEventListener("click", () => {
 
   inputEl.value = "";
   inputEl.classList.remove("active");
+  
 });
